@@ -1,3 +1,25 @@
+## Software Dependencies
+
+This pipeline relies on the following external software packages:
+
+- **3D Slicer**  
+  https://www.slicer.org/
+
+- **FastSurfer**  
+  https://github.com/Deep-MI/FastSurfer
+
+- **OSS-DBS (v2)**  
+  https://github.com/SFB-ELAINE/OSS-DBSv2  
+
+  OSS-DBS is used for finite-element electric-field simulations.
+  This repository does not redistribute OSS-DBS source code.
+  Users are expected to install and run OSS-DBS separately.
+
+- **MRtrix3** (for diffusion MRI tractography)  
+  https://www.mrtrix.org/
+
+---
+
 ## A. Imaging & Electrode Localization
 
 1. Load **T1** MRI(Pre-op) and **CT**(Post-op) to 3D Slicer
@@ -85,7 +107,7 @@
      <img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/5dc6a218-55cf-4f24-afea-0d4643f52231" />
 
         
-3. VTA can also be visualized using Point model analysis(Lattice), if needed
+3. VTA can also be visualized using Point model analysis(Lattice = true), if needed
 
      <img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/69e6118d-1a3a-4faf-b873-fd7a59db92e8" />
 
