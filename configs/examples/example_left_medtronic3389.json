@@ -1,5 +1,5 @@
 "BrainRegion": {
-    "Center": {"x[mm]": -11.44, "y[mm]": -15.081, "z[mm]": -8.399
+    "Center": {"x[mm]": 14.737, "y[mm]": 14.357, "z[mm]": -65.186
     },
     "Dimension": {
       "x[mm]": 160.0,
@@ -19,9 +19,9 @@
                 "total_length":  60.0,
             },
       "Rotation[Degrees]": 0,
-      "Direction": {"x[mm]": -0.287, "y[mm]": 0.598, "z[mm]": 0.748
+      "Direction": {"x[mm]": 0.2168, "y[mm]": 0.5256, "z[mm]": 0.8226
       },
-      "TipPosition": {"x[mm]": -11.44, "y[mm]": -15.081, "z[mm]": -8.399
+      "TipPosition": {"x[mm]": 14.737, "y[mm]": 14.357, "z[mm]": -65.186
       },
       "Contacts": [
         {
@@ -111,12 +111,12 @@
     },
     "Lattice": {
       "Active": true,
-      "Center": {"x[mm]": -11.44, "y[mm]": -15.081, "z[mm]": -8.399
+      "Center": {"x[mm]": 14.737, "y[mm]": 14.357, "z[mm]": -65.186
       },
       "Shape": {
-        "x": 160,
-        "y": 160,
-        "z": 160
+        "x": 1,
+        "y": 1,
+        "z": 1
       },
       "Direction": {
         "x[mm]": 0,
@@ -130,9 +130,9 @@
     "VoxelLattice": {
       "Active": false,
       "Shape": {
-        "x": 161,
-        "y": 161,
-        "z":161
+        "x": 1,
+        "y": 1,
+        "z":1
       },
       "ExportField": true
     }
