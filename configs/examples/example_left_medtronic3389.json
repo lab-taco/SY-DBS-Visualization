@@ -130,9 +130,9 @@
     "VoxelLattice": {
       "Active": false,
       "Shape": {
-        "x": 1,
-        "y": 1,
-        "z":1
+        "x": 70,
+        "y": 70,
+        "z":70
       },
       "ExportField": true
     }
