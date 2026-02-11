@@ -31,9 +31,9 @@ This pipeline relies on the following external software packages:
     - Threshold → clean with paint/erase
     - Keep Left/Right in separate segments
     - Tutorial on segmentation: https://www.youtube.com/watch?v=ZRYMItzwg8g
-    - Export electrode segmentation to a model(.vtk) inside segmentation module  
-   
-    <img width="800" height="570" alt="image" src="https://github.com/user-attachments/assets/2017da24-c80d-446d-bd83-027a47336a0a" />
+    - Export electrode segmentation to a model(.vtk) inside segmentation module
+    - <img width="800" height="570" alt="Screenshot 2026-02-11 at 2 22 14 PM" src="https://github.com/user-attachments/assets/e5a18cf5-5511-4e2f-860c-c00abb699b1e" />
+    
 
     
 4. **Create a Markups point list** for each electrode.
@@ -42,7 +42,8 @@ This pipeline relies on the following external software packages:
     - Point on middle of shaft = for **Direction**
     - Point for the end of the electrode (Opposite of tip)
     
-    <img width="800" height="570" alt="image" src="https://github.com/user-attachments/assets/4b07f318-437f-4090-ad50-5dfb02fd1ca7" />
+    <img width="800" height="570" alt="Screenshot 2026-02-11 at 2 26 00 PM" src="https://github.com/user-attachments/assets/2d8c43c3-8a34-43fc-a037-4b7bb8e9cf57" />
+
 
     
 
