@@ -1,6 +1,9 @@
 # DBS-Visualization
 This repository documents a patient-specific deep brain stimulation (DBS) visualization pipeline, covering imaging, electrode localization, tissue segmentation, electric field simulation, and tractography
 
+<img width="600" height="422" alt="Head 4" src="https://github.com/user-attachments/assets/68c9de37-4319-43c1-9837-1f8811810d39" />
+
+
 ## Project Overview
 1. Localize DBS electrodes from post-op CT and pre-op MRI 
 2. Build patient-specific tissue conductivity models 
