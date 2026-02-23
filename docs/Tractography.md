@@ -50,5 +50,6 @@ To enable anatomically informed tract selection:
 An example of tractography filtered using a pallidum mask is shown below:
 
 
-<img width="800" height="570" alt="tract" src="https://github.com/user-attachments/assets/59bdbfab-bda1-4d34-9f60-58fd35e10aed" />
+<img width="800" height="570" alt="tract" src="https://github.com/user-attachments/assets/5b0550fe-cf7c-40d1-b1cc-8d0cf193ffef" />
+
 
