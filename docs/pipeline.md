@@ -32,7 +32,8 @@ This pipeline relies on the following external software packages:
     - Keep Left/Right in separate segments
     - Tutorial on segmentation: https://www.youtube.com/watch?v=ZRYMItzwg8g
     - Export electrode segmentation to a model(.vtk) inside segmentation module
-    - <img width="800" height="570" alt="Screenshot 2026-02-11 at 2 22 14 PM" src="https://github.com/user-attachments/assets/e5a18cf5-5511-4e2f-860c-c00abb699b1e" />
+    - <img width="800" height="570" alt="electrode_seg" src="https://github.com/user-attachments/assets/34b0f398-1aec-4feb-a335-6a8e46c667ef" />
+
     
 
     
@@ -42,7 +43,8 @@ This pipeline relies on the following external software packages:
     - Point on middle of shaft = for **Direction**
     - Point for the end of the electrode (Opposite of tip)
     
-    <img width="800" height="570" alt="Screenshot 2026-02-11 at 2 26 00 PM" src="https://github.com/user-attachments/assets/2d8c43c3-8a34-43fc-a037-4b7bb8e9cf57" />
+
+       <img width="800" height="570" alt="Electrode fiducial" src="https://github.com/user-attachments/assets/ecb4b651-0beb-4f31-ad5f-ef22e9bf1e24" />
 
 
     
@@ -70,7 +72,8 @@ This pipeline relies on the following external software packages:
     
     Resulting mask should look like this in Slicer:
     
-    <img width="800" height="570" alt="image" src="https://github.com/user-attachments/assets/051b361f-3c06-467b-ad07-6bc853c7e177" />
+    <img width="800" height="570" alt="Segmentation_mask" src="https://github.com/user-attachments/assets/b5429c71-06db-4520-a122-a535dde0b379" />
+
 
     
 
